@@ -1,0 +1,116 @@
+VOLCANX020,NUMBER,NAME,LOCATION,STATUS,ELEV,TYPE,TIMEFRAME,LAT,LON
+509.000000000000000,1201-01-,Baker,US-Washington,Historical,3285,Stratovolcanoes,D3,48.7767982,-121.8109970
+511.000000000000000,1201-02-,Glacier Peak,US-Washington,Tephrochronology,3213,Stratovolcano,D4,48.1118011,-121.1110001
+513.000000000000000,1201-03-,Rainier,US-Washington,Dendrochronology,4392,Stratovolcano,D3,46.8698006,-121.7509995
+515.000000000000000,1201-05-,St. Helens,US-Washington,Historical,2549,Stratovolcano,D1,46.1997986,-122.1809998
+516.000000000000000,1201-04-,Adams,US-Washington,Tephrochronology,3742,Stratovolcano,D6,46.2057991,-121.4909973
+517.000000000000000,1201-06-,West Crater,US-Washington,Radiocarbon,1329,Volcanic field,D7,45.8797989,-122.0810013
+518.000000000000000,1201-07-,Indian Heaven,US-Washington,Radiocarbon,1806,Shield volcanoes,D7,45.9297981,-121.8209991
+519.000000000000000,1202-01-,Hood,US-Oregon,Historical,3426,Stratovolcano,D3,45.3737984,-121.6910019
+521.000000000000000,1202-02-,Jefferson,US-Oregon,Varve Count,3199,Stratovolcano,D6,44.6917992,-121.8010025
+522.000000000000000,1202-03-,Blue Lake Crater,US-Oregon,Radiocarbon,1230,Maar,D7,44.4197998,-121.7710037
+523.000000000000000,1202-04-,Sand Mountain Field,US-Oregon,Radiocarbon,1664,Cinder cones,D7,44.3797989,-121.9309998
+524.000000000000000,1202-05-,Washington,US-Oregon,Radiocarbon,2376,Shield volcano,D6,44.3317986,-121.8310013
+525.000000000000000,1202-06-,Belknap,US-Oregon,Radiocarbon,2095,Shield volcanoes,D6,44.2848015,-121.8410034
+526.000000000000000,1202-07-,North Sister Field,US-Oregon,Radiocarbon,3074,Complex volcano,D6,44.1697998,-121.7710037
+527.000000000000000,1202-08-,South Sister,US-Oregon,Radiocarbon,3157,Complex volcano,D7,44.0998001,-121.7710037
+528.000000000000000,1202-09-,Bachelor,US-Oregon,Tephrochronology,2763,Stratovolcano,D7,43.9788017,-121.6809998
+531.000000000000000,1202-11-,Newberry Volcano,US-Oregon,Radiocarbon,2434,Shield volcano,D6,43.7218018,-121.2210007
+532.000000000000000,1202-10-,Davis Lake,US-Oregon,Radiocarbon,2163,Volcanic field,D7,43.5698013,-121.8209991
+534.000000000000000,1202-12-,Devils Garden,US-Oregon,Holocene?,1698,Volcanic field,?,43.5119019,-120.8610001
+535.000000000000000,1202-15-,Cinnamon Butte,US-Oregon,Holocene?,1956,Cinder cones,?,43.2407990,-122.1009979
+536.000000000000000,1202-13-,Squaw Ridge Lava Field,US-Oregon,Holocene?,1711,Volcanic field,?,43.4719009,-120.7509995
+537.000000000000000,1202-14-,Four Craters Lava Field,US-Oregon,Holocene?,1501,Volcanic field,?,43.3609009,-120.6610031
+538.000000000000000,1202-16-,Crater Lake,US-Oregon,Radiocarbon,2487,Caldera,D7,42.9299011,-122.1210022
+539.000000000000000,1205-01-,Yellowstone,US-Wyoming,Tephrochronology,2805,Calderas,D7,44.4299011,-110.6709976
+541.000000000000000,1202-17-,Diamond Craters,US-Oregon,Holocene?,1435,Volcanic field,?,43.0998993,-118.7509995
+542.000000000000000,1202-19-,Jordan Craters,US-Oregon,Radiocarbon,1473,Volcanic field,D7,43.1498985,-117.4710007
+543.000000000000000,1202-18-,Saddle Butte,US-Oregon,Holocene?,1700,Volcanic field,?,42.9999008,-117.8010025
+544.000000000000000,1204-02-,Craters of the Moon,US-Idaho,Radiocarbon,2005,Cinder cones,D7,43.4198990,-113.5009995
+545.000000000000000,1204-04-,Hell Half Acre,US-Idaho,Radiocarbon,1631,Shield volcano,D7,43.4999008,-112.4509964
+546.000000000000000,1204-01-,Shoshone Lava Field,US-Idaho,Holocene,1478,Shield volcano,D7,43.1799011,-114.3509979
+547.000000000000000,1202-20-,Jackies Butte,US-Oregon,Holocene?,1418,Volcanic field,?,42.6058998,-117.5810013
+548.000000000000000,1203-02-,Medicine Lake,US-California,Radiocarbon,2412,Shield volcano,D6,41.5798988,-121.5709991
+549.000000000000000,1204-03-,Wapi Lava Field,US-Idaho,Radiocarbon,1604,Shield volcano,D7,42.8799019,-113.2210007
+550.000000000000000,1203-01-,Shasta,US-California,Historical,4317,Stratovolcano,D4,41.4198990,-122.2009964
+551.000000000000000,1203-03-,Brushy Butte,US-California,Holocene?,1174,Shield volcano,?,41.1778984,-121.4410019
+552.000000000000000,1203-04-,Big Cave,US-California,Holocene?,1259,Shield volcano,?,40.9548988,-121.3610001
+553.000000000000000,1203-05-,Twin Buttes,US-California,Holocene?,1631,Cinder cones,?,40.7798996,-121.6009979
+554.000000000000000,1203-06-,Tumble Buttes,US-California,Holocene?,2191,Cinder cones,?,40.6799011,-121.5510025
+555.000000000000000,1203-07-,Lassen,US-California,Historical,3187,Stratovolcano,D1,40.4888992,-121.5080032
+1.000000000000000,1301-01-,Teide,ES-Tenerife,Historical,3718,Stratovolcano,D3,28.2724000,-16.6425000
+2.000000000000000,1301-02-,Cumbre Vieja,ES-La Palma,Historical,2426,Stratovolcano,D1,28.5776000,-17.8399000
+3.000000000000000,1301-03-,Teneguía,ES-La Palma,Historical,439,Cinder cone,D1,28.4497000,-17.8641000
+4.000000000000000,1301-04-,Tagoro,ES-El Hierro,Historical,88,Submarine volcano,D1,27.6310000,-17.9950000
+5.000000000000000,1301-05-,Lanzarote,ES-Lanzarote,Historical,671,Volcanic field,D2,29.0350000,-13.6250000
+6.000000000000000,1301-06-,Pico Viejo,ES-Tenerife,Historical,3135,Stratovolcano,D3,28.2733000,-16.6793000
+7.000000000000000,1301-07-,Garrotxa,ES-Catalonia,Holocene,550,Volcanic field,D4,42.1570000,2.5170000
+8.000000000000000,1302-01-,Etna,IT-Sicily,Historical,3329,Stratovolcano,D1,37.7486000,15.0042000
+9.000000000000000,1302-02-,Stromboli,IT-Aeolian Islands,Historical,924,Stratovolcano,D1,38.7890000,15.2130000
+10.000000000000000,1302-03-,Vesuvius,IT-Campania,Historical,1281,Stratovolcano,D1,40.8214000,14.4262000
+11.000000000000000,1302-04-,Santorini,GR-South Aegean,Historical,367,Caldera,D1,36.4040000,25.3960000
+12.000000000000000,1302-05-,Hekla,IS-South Iceland,Historical,1491,Stratovolcano,D1,63.9910000,-19.6710000
+13.000000000000000,1302-06-,Katla,IS-South Iceland,Historical,1512,Stratovolcano,D1,63.6310000,-19.0470000
+14.000000000000000,1302-07-,Grímsvötn,IS-Vatnajökull,Historical,1725,Subglacial volcano,D1,64.4170000,-17.3300000
+15.000000000000000,1302-08-,Eyjafjallajökull,IS-South Iceland,Historical,1666,Stratovolcano,D1,63.6330000,-19.6230000
+16.000000000000000,1302-09-,Laki,IS-South Iceland,Historical,1725,Fissure vent,D1,64.1000000,-18.2300000
+17.000000000000000,1302-10-,Askja,IS-North Iceland,Historical,1510,Caldera,D1,65.0300000,-16.7480000
+18.000000000000000,1302-11-,Krafla,IS-North Iceland,Historical,818,Caldera,D1,65.7160000,-16.7660000
+19.000000000000000,1302-12-,Vulcano,IT-Aeolian Islands,Historical,500,Stratovolcano,D1,38.4040000,14.9620000
+20.000000000000000,1302-13-,Campi Flegrei,IT-Campania,Historical,458,Caldera,D1,40.8270000,14.1390000
+21.000000000000000,1302-14-,Ischia,IT-Campania,Historical,789,Complex volcano,D1,40.7310000,13.9490000
+22.000000000000000,1302-15-,Mount Elbrus,RU-Caucasus,Historical,5642,Stratovolcano,D1,43.3520000,42.4420000
+23.000000000000000,1302-16-,Sabalan,IR-Alborz,Holocene?,4811,Stratovolcano,D2,38.2640000,47.8200000
+24.000000000000000,1302-17-,Damavand,IR-Alborz,Historical,5610,Stratovolcano,D1,35.9510000,52.1090000
+25.000000000000000,1302-18-,Vöttur,GR-North Aegean,Holocene,700,Stratovolcano,D1,39.2900000,24.1100000
+26.000000000000000,1302-19-,Kolumbo,GR-South Aegean,Historical, 18,Submarine volcano,D1,36.5300000,25.5100000
+27.000000000000000,1302-20-,Laacher See,DE-Rhineland,Holocene,457,Caldera,D1,50.4000000,7.2700000
+28.000000000000000,1302-21-,Eifel Volcanic Field,DE-Rhineland,Holocene?,747,Volcanic field,D2,50.2500000,7.0000000
+29.000000000000000,1302-22-,Campanian Ignimbrite,IT-Campania,Prehistoric,?,Caldera,D4,40.8000000,14.3000000
+30.000000000000000,1302-23-,Theistareykjarbunga,IS-North Iceland,Historical,564,Fissure vent,D1,65.8530000,-16.8300000
+31.000000000000000,1302-24-,Bardarbunga,IS-Vatnajökull,Historical,2009,Stratovolcano,D1,64.6410000,-17.5270000
+32.000000000000000,1302-25-,Oraefajokull,IS-South Iceland,Historical,2110,Stratovolcano,D1,63.9800000,-16.6500000
+33.000000000000000,1302-26-,Snæfellsjökull,IS-Snæfellsnes Peninsula,Historical,1446,Stratovolcano,D1,64.8090000,-23.7750000
+34.000000000000000,1302-27-,Tristan da Cunha,SH-Atlantic Ocean,Historical,2060,Stratovolcano,D1,-37.1050000,-12.2770000
+600.000000000000000,1303-01-,Kilimanjaro,TZ-Tanzania,Historical,5895,Stratovolcano,D1,-3.0650000,37.3550000
+601.000000000000000,1303-02-,Nyiragongo,CD-DR Congo,Historical,3470,Stratovolcano,D1,-1.5200000,29.2500000
+602.000000000000000,1303-03-,Ol Doinyo Lengai,TZ-Tanzania,Historical,2962,Stratovolcano,D1,-2.7500000,35.9100000
+603.000000000000000,1303-04-,Mount Cameroon,CM-Cameroon,Historical,4095,Stratovolcano,D1,4.2000000,9.1700000
+604.000000000000000,1303-05-,Erta Ale,ET-Ethiopia,Historical,613,Shield volcano,D1,13.6000000,40.6700000
+605.000000000000000,1303-06-,Fogo,CV-Cape Verde,Historical,2829,Stratovolcano,D1,14.9480000,-24.3500000
+606.000000000000000,1303-07-,Piton de la Fournaise,RE-Reunion,Historical,2631,Shield volcano,D1,-21.2440000,55.7080000
+607.000000000000000,1303-08-,Marion Island,ZA-South Africa,Historical,1230,Shield volcano,D1,-46.8720000,37.7500000
+700.000000000000000,1401-01-,Mount Fuji,JP-Japan,Historical,3776,Stratovolcano,D1,35.3600000,138.7300000
+701.000000000000000,1401-02-,Merapi,ID-Indonesia,Historical,2930,Stratovolcano,D1,-7.5400000,110.4460000
+702.000000000000000,1401-03-,Krakatoa,ID-Indonesia,Historical,813,Caldera,D1,-6.1020000,105.4230000
+703.000000000000000,1401-04-,Mount Everest,Nepal-Tibet,Inactive,8848,Mountain,D0,27.9881000,86.9250000
+704.000000000000000,1401-05-,Tambora,ID-Indonesia,Historical,2850,Stratovolcano,D1,-8.2500000,118.0000000
+705.000000000000000,1401-06-,Taal,PH-Philippines,Historical,311,Caldera,D1,14.0000000,120.9930000
+706.000000000000000,1401-07-,Sinabung,ID-Indonesia,Historical,2460,Stratovolcano,D1,3.1700000,98.3920000
+707.000000000000000,1401-08-,Halla,KR-South Korea,Historical,1950,Shield volcano,D1,33.3600000,126.5290000
+708.000000000000000,1401-09-,Mayon,PH-Philippines,Historical,2463,Stratovolcano,D1,13.2570000,123.6850000
+709.000000000000000,1401-10-,Anak Krakatoa,ID-Indonesia,Historical,813,Caldera,D1,-6.1020000,105.4230000
+800.000000000000000,1402-01-,Cotopaxi,EC-Ecuador,Historical,5897,Stratovolcano,D1,-0.7330000,-78.4370000
+801.000000000000000,1402-02-,Chimborazo,EC-Ecuador,Historical,6310,Stratovolcano,D1,-1.4690000,-78.8160000
+802.000000000000000,1402-03-,Nevado Tres Cruces,AR-Argentina,Historical,6749,Stratovolcano,D1,-28.3840000,-68.8680000
+803.000000000000000,1402-04-,Nevado de Longavi,CL-Chile,Historical,3520,Stratovolcano,D1,-35.1720000,-71.4690000
+804.000000000000000,1402-05-,Llaima,CL-Chile,Historical,3125,Stratovolcano,D1,-38.7930000,-71.5760000
+805.000000000000000,1402-06-,Osorno,CL-Chile,Historical,2650,Stratovolcano,D1,-40.5700000,-73.1220000
+806.000000000000000,1402-07-,San Pedro,CL-Chile,Historical,6145,Stratovolcano,D1,-24.1410000,-67.2320000
+807.000000000000000,1402-08-,San Pablo,CL-Chile,Historical,4106,Stratovolcano,D1,-30.1560000,-70.2030000
+808.000000000000000,1402-09-,Nevado de Chillán,CL-Chile,Historical,3180,Stratovolcano,D1,-36.8400000,-71.3600000
+809.000000000000000,1402-10-,Volcán de Fuego,GTM-Guatemala,Historical,3763,Stratovolcano,D1,14.4730000,-90.8800000
+810.000000000000000,1402-11-,Turrialba,CR-Costa Rica,Historical,3340,Stratovolcano,D1,9.9270000,-83.6730000
+900.000000000000000,1403-01-,Mount Meru,TZ-Tanzania,Historical,4566,Stratovolcano,D1,-3.1880000,36.8930000
+901.000000000000000,1403-02-,Mount Kenya,KE-Kenya,Historical,5199,Stratovolcano,D1,-0.1620000,37.3580000
+902.000000000000000,1403-03-,Simien Mountains,ET-Ethiopia,Historical,4620,Mountain,D1,13.1000000,37.5760000
+903.000000000000000,1403-04-,Mount Rungwe,TZ-Tanzania,Historical,2961,Stratovolcano,D1,-9.1570000,33.5150000
+904.000000000000000,1403-05-,Mount Elgon,UG-Uganda,Historical,4321,Stratovolcano,D1,1.1450000,34.7490000
+905.000000000000000,1403-06-,Mount Meru,TZ-Tanzania,Historical,4566,Stratovolcano,D1,-3.1880000,36.8930000
+906.000000000000000,1403-07-,Afar Triangle,ET-Ethiopia,Historical,50,Geological structure,D1,14.2500000,40.5000000
+1000.000000000000000,1404-01-,Kilimanjaro,TZ-Tanzania,Historical,5895,Stratovolcano,D1,-3.0650000,37.3550000
+1001.000000000000000,1404-02-,Himalayas,NP-Nepal,Inactive,8848,Mountain,D0,27.9881000,86.9250000
+1002.000000000000000,1404-03-,K2,PK-Pakistan,Inactive,8611,Mountain,D0,35.8808000,76.5133000
+1003.000000000000000,1404-04-,Aconcagua,AR-Argentina,Inactive,6961,Mountain,D0,-32.6532000,-70.0108000
+1004.000000000000000,1404-05-,Mount Elbrus,RU-Caucasus,Historical,5642,Stratovolcano,D1,43.3520000,42.4420000
+
